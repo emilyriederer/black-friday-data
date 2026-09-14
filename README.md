@@ -6,7 +6,7 @@
 
 This exercise is intended for students or anyone else interested in playing along. It offers a simple dataset like one might find in an ERP and a simple question, but with enough ambiguity that there is no correct solution. It can serve as a discussion point for students about the vagaries of real world data and the importance of precise question framing. More broadly, I like to think it can be a hopeful exercise for students concerned about the future of data jobs in the age of AI. Language models cannot solve what language itself cannot solve. 
 
-I appreciate when instructors collect answer in a Google Form and are willing to shar the answers with me. So far, we've seen answers clump in clusters of similar assumptions with values between $7M-$14M. 
+I appreciate when instructors collect answer in a Google Form and are willing to shar the answers with me. So far, we've seen answers clump in clusters of similar assumptions with values between $700K-$14M. 
 
 This is **not** about data quality. The data is not mistaken, persay. Just challenging, as most data is. 
 
